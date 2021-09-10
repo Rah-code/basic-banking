@@ -124,7 +124,7 @@
 
 
   <footer class="center footer">
-    <h6 class="info"><b> Made by Shiva Shankar C</b></h6>
+    <h6 class="info"><b> Made by Rahul Jaiswal</b></h6>
     The Sparks Foundation
   </footer>
 
